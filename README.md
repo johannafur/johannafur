@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @johannafur
+- 👀 I’m interested in web design, WebVR and 3D modelling. I'm also very enthusiastic about design in general (eg. interior design, graphic design).
+- 🌱 I’m currently learning HTML, CSS, JavaScript and various 3D modelling softwares.
